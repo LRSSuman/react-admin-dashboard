@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "This is post two body",
+      "publishedAt": "7-22-2024"
+    },
+    {
+      "id": "2",
+      "title": "Post Three",
+      "body": "This is post Three body",
+      "publishedAt": "8-20-2024"
+    },
+    {
+      "title": "asd",
+      "body": "wwed",
+      "publishedAt": "2024-11-25",
+      "id": "sGhaQmQ"
+    }
+  ],
+  "users": [
+    {
+      "name": "john wick",
+      "email": "john@gmail.com",
+      "id": "Sdfei2j"
+    },
+    {
+      "name": "sdd",
+      "email": "abcd@gmail.com",
+      "id": "IRZrY2J"
+    }
+  ]
+}
